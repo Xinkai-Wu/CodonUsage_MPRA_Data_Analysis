@@ -128,8 +128,3 @@ Please see the **Step4.1_RiboScore_Calculate.ipynb** and **Step4.2_GFPScore_Calc
 
 ## License
 Each file included in this repository is licensed under the MIT License.
-
-Please see the **Step4.1_RiboScore_Calculate.ipynb** and **Step4.2_GFPScore_Calculate.ipynb** for details.
-
-## License
-Each file included in this repository is licensed under the XXX License.
